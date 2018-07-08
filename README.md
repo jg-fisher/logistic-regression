@@ -1,2 +1,2 @@
 # logistic-regression
-Logistic regression implementation from scratch.
+Day 4: Logistic regression implementation from scratch.
